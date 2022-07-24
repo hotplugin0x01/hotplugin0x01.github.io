@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Hello Friend NG</title>
+        <title>Posts on Hot Plugin</title>
         <link>http://hotplugin0x01.github.io/posts/</link>
-        <description>Recent content in Posts on Hello Friend NG</description>
+        <description>Recent content in Posts on Hot Plugin</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
@@ -10,13 +10,14 @@
         <atom:link href="http://hotplugin0x01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>First Test Post</title>
+            <title>Test Post</title>
             <link>http://hotplugin0x01.github.io/posts/post/</link>
             <pubDate>Sun, 24 Jul 2022 21:36:11 +0500</pubDate>
             
             <guid>http://hotplugin0x01.github.io/posts/post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>python3 -c &amp;#39;print(&amp;#34;Hello Word&amp;#34;)&amp;#39; </description>
+            <content type="html"><![CDATA[<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>python3 -c <span style="color:#e6db74">&#39;print(&#34;Hello Word&#34;)&#39;</span>
+</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>

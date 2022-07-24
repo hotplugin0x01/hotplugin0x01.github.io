@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>Hot Plugin</title>
     <link>http://hotplugin0x01.github.io/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on Hot Plugin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 24 Jul 2022 21:36:11 +0500</lastBuildDate><atom:link href="http://hotplugin0x01.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Test Post</title>
+      <title>Test Post</title>
       <link>http://hotplugin0x01.github.io/posts/post/</link>
       <pubDate>Sun, 24 Jul 2022 21:36:11 +0500</pubDate>
       
       <guid>http://hotplugin0x01.github.io/posts/post/</guid>
-      <description></description>
+      <description>python3 -c &amp;#39;print(&amp;#34;Hello Word&amp;#34;)&amp;#39; </description>
+    </item>
+    
+    <item>
+      <title>whoami</title>
+      <link>http://hotplugin0x01.github.io/whoami/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hotplugin0x01.github.io/whoami/</guid>
+      <description>Honestly, there isn’t much to say. I am not world reknown security expert nor do i hail from prestigious background. I am just an undergrad student who likes get my hands dirty with geeky stuff.
+Learning cyber security and penetration testing by participating in CTF competitions and pushing the limits to do extraordinary things.
+This blog serves the purpose of documenting my journey as i go down the rabbit hole. :praye:</description>
     </item>
     
   </channel>
